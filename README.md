@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hassan Khalid
 =====================================================================================================================================
 
-Post-Grad in Artificial Intelligence.
+Post-Grad Artificial Intelligence.
 -------------------------------------
 
 I did Bachelor in Mechanical Engineer. After exploring the field and working as a design engineer for almost 2 years, I leaned towards the control systems and coding problems. After exploring the field of programming, I started working on Machine and Deep learning projects after learning from online courses I formally started my hybrid degree in Artificial Intelligence. Currently, I am working as an Asset Integrity engineer and working on multiple research projects related to Computer Vision, Ai and Deep Learning.
